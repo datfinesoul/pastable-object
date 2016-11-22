@@ -1,0 +1,58 @@
+[
+	{
+		"direction": "inbound",
+		"caller": "Customer",
+		"date": "11/21",
+		"start": "21:31:04",
+		"end": "21:34:40",
+		"duration": 3
+	},
+	{
+		"direction": "outbound-api",
+		"caller": "Sales Rep",
+		"date": "11/21",
+		"start": "21:31:20",
+		"end": "21:32:04",
+		"duration": 0
+	},
+	{
+		"direction": "outbound-api",
+		"caller": "Sales Rep",
+		"date": "11/21",
+		"start": "21:33:07",
+		"end": "21:33:57",
+		"duration": 0
+	},
+	{
+		"direction": "inbound",
+		"caller": "Customer",
+		"date": "11/21",
+		"start": "21:34:51",
+		"end": "21:42:28",
+		"duration": 7
+	},
+	{
+		"direction": "outbound-api",
+		"caller": "Sales Rep",
+		"date": "11/21",
+		"start": "21:35:05",
+		"end": "21:35:56",
+		"duration": 0
+	},
+	{
+		"direction": "outbound-api",
+		"caller": "Sales Rep",
+		"date": "11/21",
+		"start": "21:36:04",
+		"end": "21:42:39",
+		"duration": 6
+	},
+	{
+		"direction": "inbound",
+		"caller": "Sales Rep",
+		"date": "11/21",
+		"start": "21:36:14",
+		"end": "21:42:29",
+		"duration": 6
+	}
+]
