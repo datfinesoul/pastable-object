@@ -1,0 +1,25 @@
+{
+  "name": "pastable-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datfinesoul/pastable-object.git"
+  },
+  "keywords": [
+    "object",
+    "readable",
+    "text",
+    "paste"
+  ],
+  "author": "Philip Hadviger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datfinesoul/pastable-object/issues"
+  },
+  "homepage": "https://github.com/datfinesoul/pastable-object#readme"
+}
